@@ -19,6 +19,12 @@ The dashboard consists of the following main pages:
 ## Data Source
 The data for this project is stored in a SQL Server database. I have cleaned and processed the data before importing it into Power BI for analysis. The dataset includes fake sales transactions with information about customers, products, orders, and sales amounts.
 
+## Dashboard Link
+
+You can access the live version of the Power BI dashboard [here]([https://your-dashboard-url.com](https://app.powerbi.com/view?r=eyJrIjoiM2M3OGY1ZjYtOTU0ZS00ZDcyLWJjMWEtZjg3YmI0M2UwNDA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)).
+
+
+
 ## Installation
 To install and run this Power BI dashboard locally, follow these steps:
 
